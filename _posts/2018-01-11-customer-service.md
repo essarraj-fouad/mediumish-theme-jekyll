@@ -11,9 +11,20 @@ rating: 4.5
 ---
 
 
-# Titre 
+# Introduction
 
-paragraphe 
+l'*information* est une **science** qui traite le taitement de l'information 
+
+![tanger](../assets/images/tanger.jpg)
 
 
-## Sous titre
+- element 1
+- element 2
+
+forme liste 2
+
+1 - element 1
+2 - element 2
+
+## Sous 
+
