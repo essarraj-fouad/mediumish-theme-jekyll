@@ -23,8 +23,8 @@ l'*information* est une **science** qui traite le taitement de l'information
 
 forme liste 2
 
-1 - element 1
-2 - element 2
+1- element 1
+2- element 2
 
 ## Sous 
 
